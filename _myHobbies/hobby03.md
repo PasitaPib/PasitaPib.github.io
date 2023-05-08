@@ -7,7 +7,7 @@ alt:
 caption:
   title: Gardening
   subtitle: Gardening at home
-  thumbnail: assets/img/hobbies/h3/IMG_03331.jpg
+  thumbnail: assets/img/hobbies/h3/bell.jpg
 ---
 <h6 style="text-align:left">Plants</h6>
 <ol style="text-align:left;margin-left:30px">

@@ -6,11 +6,11 @@ alt:
 caption:
   title: Society of Plastics Engineers (SPE) Automotive Composites Conference & Exhibition (ACCE) 2020
   subtitle: 2nd Place Winner - PhD poster competition
-  thumbnail: assets/img/conferences/SPEACCE_20.jpg
+  thumbnail: assets/img/conferences/SPEACCE_2020.jpg
 ---
 
 <br>
-<img class="img-fluid" src="assets/img/conferences/SPEACCE_20.jpg" alt="" width="416" height="300" style="padding-top=10px">
+<img class="img-fluid" src="assets/img/conferences/SPEACCE_2020.jpg" alt="" width="416" height="300" style="padding-top=10px">
 <br>
 
 <div style="text-align: justify">

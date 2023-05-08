@@ -133,116 +133,116 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide2.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide2.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide3.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide3.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide4.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide4.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide5.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide5.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide6.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide6.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide7.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide7.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide8.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide8.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide9.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide9.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide10.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide10.PNG" style="width:100%">
 </div>
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide11.png" style="width:100%">
-</div>
-
-<div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide12.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide11.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide13.png" style="width:100%">
-</div>
-<div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide14.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide12.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide15.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide13.PNG" style="width:100%">
+</div>
+<div class="mySlides">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide14.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide16.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide15.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide17.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide16.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide18.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide17.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide19.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide18.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide20.png" style="width:100%">
-</div>
-<div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide21.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide19.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide22.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide20.PNG" style="width:100%">
+</div>
+<div class="mySlides">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide21.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide23.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide22.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide24.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide23.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide25.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide24.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide26.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide25.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide27.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide26.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide28.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide27.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide29.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide28.PNG" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide30.png" style="width:100%">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide29.PNG" style="width:100%">
+</div>
+
+<div class="mySlides">
+  <img src="assets/img/conferences/CAMX 2022_Pasita_Presentation2/Slide30.PNG" style="width:100%">
 </div>
 <a class="prev" onclick="plusSlides(-1)">❮</a>
 <a class="next" onclick="plusSlides(1)">❯</a>

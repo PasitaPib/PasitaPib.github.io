@@ -5,7 +5,7 @@ subtitle: 3D model and 3D print figurines for fun! <br>
 caption:
   title: 3D Printing & Modeling
   subtitle: Illustration
-  thumbnail: assets/img/hobbies/h1/IMG_0696.jpg
+  thumbnail: assets/img/hobbies/h1/KuroSensei.jpg
 ---
 I use Blender to create my 3D models and print them out in white PLA and hand paint them with acrylic paints.  
 
@@ -16,17 +16,17 @@ Here are some of my models<br>
 <div class="row">
       <div class="col-lg-4 mx-auto text-center align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_0310.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/RBP.jpg">
         </div>
       </div>
       <div class="col-lg-4 mx-auto text-left align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_1916.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/MR.jpg">
         </div>
       </div>
       <div class="col-lg-4 mx-auto text-left align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_1064.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/EB.jpg">
         </div>
       </div>
 </div>
@@ -35,29 +35,29 @@ Here are some of my models<br>
 <div class="row">
       <div class="col-lg-6 mx-auto text-center align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_0684.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/RTT.jpg">
         </div>
       </div>
       <div class="col-lg-4 mx-auto text-left align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_0708.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/miki.jpg">
         </div>
       </div>
 </div>
 <div class="row">
       <div class="col-lg-4 mx-auto text-center align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_0685.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/goku.jpg">
         </div>
       </div>
       <div class="col-lg-4 mx-auto text-left align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_0702.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/kuro.jpg">
         </div>
       </div>
       <div class="col-lg-4 mx-auto text-left align-self-center">
         <div class="large">
-          <img class="img-fluid" src="assets/img/hobbies/h1/IMG_9658.jpg">
+          <img class="img-fluid" src="assets/img/hobbies/h1/allmight.jpg">
         </div>
       </div>
 </div>
